@@ -12,8 +12,6 @@ The goal of this project is to help learners and contributors **explore, practic
 - [🤝 How to Contribute](#-how-to-contribute)  
 - [📝 Contribution Guidelines](#-contribution-guidelines)  
 - [📂 Example Folder Structure](#-example-folder-structure)  
-- [📢 Join Our Community](#-join-our-community)  
-- [☕ Support the Project](#-support-the-project)  
 - [🏆 Badges](#-badges)  
 
 ---
@@ -88,32 +86,6 @@ git push origin feature-branch-name
   - ❌ Do not copy-paste code without proper reference or attribution.
 
 
-### 📢 Join Our Community
-
-Be a part of our growing community 🌱 — learn, code, and grow together!
-
-- 💬 Join on Discord
-
-- 📢 Join on Telegram
-
-- 💼 Follow on LinkedIn
-
-- 💬 Join our WhatsApp Community
-
-- 📺 Subscribe on YouTube
-
-- 🐦 Follow on Twitter
-
-- 📸 Follow on Instagram
-
-- ☕ Support the Project
-
-If you love this project and want to support future development, consider buying us a coffee:
-
-<a href="https://www.buymeacoffee.com/mgoshwami1c"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"> </a>
-
-<br><br>
-
 ## 🏷️ GitHub Badges  
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ghostmkg/dsa-code?style=for-the-badge)  
@@ -121,4 +93,4 @@ If you love this project and want to support future development, consider buying
 ![GitHub issues](https://img.shields.io/github/issues/ghostmkg/dsa-code?style=for-the-badge)  
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ghostmkg/dsa-code?style=for-the-badge)  
 ![GitHub license](https://img.shields.io/github/license/ghostmkg/dsa-code?style=for-the-badge)  
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)  
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)
